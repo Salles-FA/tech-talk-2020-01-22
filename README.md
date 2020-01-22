@@ -280,10 +280,6 @@ kubectl expose deployment example-front-server --type=LoadBalancer --port 80
 kubectl get service
 ```
 
-Your page should resemble the following:
-
-![Final result](LinkToTheImage)
-
 ## Clean Up
 Run the following to delete the cluster:
 
