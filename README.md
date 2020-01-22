@@ -41,13 +41,13 @@ Be sure you have the following software installed:
     * [React Developer Tools - Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [git](https://git-scm.com/downloads)
 
-For a better experience with this lab [a repository on github has been prepared](https://github.com/Salles-FA/react-with-formik).
+For a better experience with this lab [a repository on github has been prepared](https://github.com/Salles-FA/tech-talk-2020-01-22.git).
 So you can follow step-by-step with your own code or checkout the final lab branch as well.
 
 Clone the repository from github:
 
 ```sh
-git clone https://github.com/Salles-FA/react-with-formik.git
+git clone https://github.com/Salles-FA/tech-talk-2020-01-22.git
 ```
 
 Once you're ready, scroll down to get your lab environment set up.
