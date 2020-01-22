@@ -275,7 +275,7 @@ gcloud container clusters get-credentials example-cluster
 kubectl create deployment example-front-server --image=gcr.io/$MY_PROJ/example-ui:v1
 kubectl expose deployment example-front-server --type=LoadBalancer --port 80
 ```
-### Get the external ip to view the application
+### Get the external IP address to view the application
 ```sh
 kubectl get service
 ```
