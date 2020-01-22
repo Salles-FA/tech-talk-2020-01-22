@@ -246,7 +246,8 @@ CMD ["nginx", "-g", "daemon off;"]
 ```sh
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install -y nodejs
-cd example-app
+git clone https://github.com/Salles-FA/tech-talk-2020-01-22.git
+cd tech-talk-2020-01-22/example-app
 npm install --production
 npm run build
 export MY_PROJ="techtalk20200122"
