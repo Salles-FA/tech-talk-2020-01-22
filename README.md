@@ -16,7 +16,7 @@ As a plus we will create a template and publish it to a Google Cloud Compute ins
 
 ### Minibio
 
-Fábio Salles holds a Bachelor of Computational Engineering degree and is [working as Full Stack Developer at GFT](https://www.linkedin.com/in/fábio-salles-32133b57).
+Fábio Andrey Salles holds a Bachelor of Computational Engineering degree and is [working as Full Stack Developer at GFT](https://www.linkedin.com/in/fábio-salles-32133b57).
 
 ## Prerequisites
 
@@ -276,7 +276,7 @@ gcloud container clusters get-credentials example-cluster
 kubectl create deployment example-front-server --image=gcr.io/$MY_PROJ/example-ui:v1
 kubectl expose deployment example-front-server --type=LoadBalancer --port 80
 ```
-### Get the external ip to view the application
+### Get the external IP address to view the application
 ```sh
 kubectl get service
 ```
