@@ -16,7 +16,7 @@ As a plus we will create a template and publish it to a Google Cloud Compute ins
 
 ### Minibio
 
-Fábio Salles holds a Bachelor of Computational Engineering degree and is [working as Full Stack Developer at GFT](https://www.linkedin.com/in/fábio-salles-32133b57).
+Fábio Andrey Salles holds a Bachelor of Computational Engineering degree and is [working as Full Stack Developer at GFT](https://www.linkedin.com/in/fábio-salles-32133b57).
 
 ## Prerequisites
 
